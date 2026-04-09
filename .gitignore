@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+chrome-mcp-server-1.0.0/
+.claude/
