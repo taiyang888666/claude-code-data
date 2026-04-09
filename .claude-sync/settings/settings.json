@@ -1,0 +1,16 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "sk-c30d4ee3f9c737babae4f4c3389f0bc4",
+    "ANTHROPIC_BASE_URL": "https://claude.redcodeai.cn",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+  },
+  "includeCoAuthoredBy": false,
+  "permissions": {
+    "deny": [
+      "WebSearch",
+      "WebFetch"
+    ]
+  },
+  "skipDangerousModePermissionPrompt": true,
+  "model": "opus"
+}
