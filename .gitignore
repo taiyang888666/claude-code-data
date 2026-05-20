@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 chrome-mcp-server-1.0.0/
 .claude/
+.DS_Store
+
+# Keep Obsidian app/window settings local to each computer.
+.obsidian/
